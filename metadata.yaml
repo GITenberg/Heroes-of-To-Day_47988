@@ -1,0 +1,31 @@
+_repo: Heroes-of-To-Day_47988
+creator:
+  author:
+    agent_name: Parkman, Mary Rosetta
+    alias: Parkman, Mary R.
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '41695'
+    url: http://www.gutenberg.org/2009/agents/41695
+description: ''
+gutenberg_issued: '2015-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47988'
+  lccn: '17025610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Great Britain -- Biography'
+- !lcsh 'United States -- Biography'
+tableOfContents: 'The Laird of Skyland: John Muir -- The Seer of Woodchuck Lodge:
+  John Burroughs -- The deep-sea doctor: Wilfred Grenfell -- The captain of his soul:
+  Captain Scott -- A modern viking: Jacob Riis -- A pioneer of the open: Edward L.
+  Trudeau -- "The prophet-engineer": George Washington Goethals -- A shepherd of "the
+  Great Country": Bishop Rowe -- A hero of flight: Samuel Pierpont Langley -- A poet-soldier:
+  Rupert Brooke -- A citizen of the world: Herbert C. Hoover.'
+title: Heroes of To-Day
+url: http://www.gutenberg.org/ebooks/47988
