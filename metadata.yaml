@@ -1,4 +1,8 @@
 _repo: Heroes-of-To-Day_47988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47988-h/images/cover.jpg
 creator:
   author:
     agent_name: Parkman, Mary Rosetta
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '41695'
     url: http://www.gutenberg.org/2009/agents/41695
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47988#Heroes-of-To-Day
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
 identifiers:
